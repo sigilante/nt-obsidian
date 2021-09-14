@@ -1,0 +1,1 @@
+Inspired by [`pmbauer`'s `av-obsidian`](https://github.com/pmbauer/av-obsidian), I have prepared a repo of the Inspired Version of Joseph Smith's New Translation (colloquially known as the Joseph Smith Translation).
